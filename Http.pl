@@ -1,6 +1,6 @@
 #!/usr/bin/perl
-# This Shit Was Made By MVBH3#0001 <3
-# MVBH3#3302
+# This Shit Was Made By Sprully#9999 <3
+# Sprully#9999
 # Apart Of The Atrac Perl Script ;)
 
 package control;
